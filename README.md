@@ -71,14 +71,11 @@ key[strcspn(key, "\n")] = '\0'; // Remove newline character if present
  }
 ```
 
-
-
 ## Output:
 
 ![7](https://github.com/user-attachments/assets/a88cc4d4-1ad9-4d1f-85ea-65ebbaa961c7)
 
 
 ## Result:
-   Hence, for the given input text and key the DES algorithm is successfully
+ Hence, for the given input text and key the DES algorithm is successfully
  simulated
-
